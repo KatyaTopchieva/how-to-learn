@@ -20,8 +20,6 @@
   max-height: 756px;
   background-color: #f2f2f2;
   position: relative;
-  
-  /* выше установили ограничения для секции */
 }
 
 .logo {
@@ -235,7 +233,7 @@
 }
 
 .feynman {
-  height: 890px; 
+  min-height: 890px; 
   background-color: #f2f2f2;
   justify-content: flex-start;
   align-items: center;
@@ -335,7 +333,7 @@
   position: relative;
   justify-content: space-between;
   width: 90%;
-  height: 250px;
+  min-height: 250px;
   margin-top: 60px;
   margin-bottom: 40px;
 }
@@ -391,6 +389,7 @@
 
 .logo__place_footer {
   height: 35px;
+  background-image: url(../images/logo_place_footer.svg);
 }
 
 
