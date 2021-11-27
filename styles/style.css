@@ -32,7 +32,7 @@
   height: 32px;
   position: absolute;
   top: 30px;
-  left: 64px; 
+  left: 64px;
   z-index: 0;
 }
 
@@ -232,7 +232,7 @@
 }
 
 .feynman {
-  min-height: 890px; 
+  min-height: 890px;
   background-color: #f2f2f2;
   justify-content: flex-start;
   align-items: center;
