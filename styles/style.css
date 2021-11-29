@@ -211,24 +211,24 @@
   margin: 0;
 }
 
+.table__heading_indent_bottom {
+  padding-bottom: 20px;
+  margin: 0;
+}
+
 .table__text {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-}
-
-.table__cell_indent_bottom > li > h3 {
-  padding-bottom: 20px;
   margin: 0;
 }
 
-.table__cell_indent_bottom > li > p {
-  padding-bottom: 20px;
-  margin: 0;
+.table__text_indent_bottom {
+  margin-bottom: 20px;
 }
 
 .table__text:last-of-type {
-  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 .feynman {
